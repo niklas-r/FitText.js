@@ -28,5 +28,7 @@ This will hopefully give you a level of "control" that might not be pixel perfec
 
 ### Thanks
 Thanks to Trent, Dave and Reagan for original FitText.js: https://github.com/davatron5000/FitText.js
+
 Thanks to Jeremy for the non-jQuery version of FitText.js: https://github.com/adactio/FitText.js
+
 http://fittextjs.com/
