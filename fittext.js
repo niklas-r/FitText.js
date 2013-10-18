@@ -7,7 +7,7 @@
 * Modified by Slawomir Kolodziej http://slawekk.info
 * Angularized by Niklas Rasmusson http://rasmusson.net
 *
-* Date: Tue Aug 09 2011 10:45:54 GMT+0200 (CEST)
+* Date: Fri Oct 18 2013 10:51:50 GMT+0200 (CEST)
 */
 angular.module('fitText', [])
 .directive('fitText', ['$window', function ($window) {
